@@ -22,3 +22,6 @@ SET MODEL_NAME=NDCNN.caffemodel
 echo:
 
 echo ----- DATA Downloaded -----
+
+::On the request of the cooperated company, the data download link is not available any more. 
+::But you can send us email with your name, your affiliation and your purpose to get the data from us. Really sorry about that.
